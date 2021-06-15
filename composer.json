@@ -1,0 +1,12 @@
+{
+    "name": "denysovvl/telegramable",
+    "description": "Sends your applications fails (500 errors) to your Telegram Bot.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "vladyslav",
+            "email": "denysov.vl@gmail.com"
+        }
+    ],
+    "require": {}
+}
